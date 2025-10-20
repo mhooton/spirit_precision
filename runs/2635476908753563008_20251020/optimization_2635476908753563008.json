@@ -1,0 +1,16 @@
+{
+  "optimal_x": 295.0,
+  "optimal_y": 736.0,
+  "precision": 0.0008348747406312666,
+  "n_comparison_stars": 6,
+  "combined_mag": 12.233768701553345,
+  "target_ra": 346.629055672549,
+  "target_dec": -5.044833663449505,
+  "distance_to_hazard": 40.19950248448356,
+  "detector_center_ra": 346.61016481932245,
+  "detector_center_dec": -5.0368587642771345,
+  "target_offset_x": -217.0,
+  "target_offset_y": 96.0,
+  "target_offset_ra_arcsec": 68.00707161553419,
+  "target_offset_dec_arcsec": -28.709637020532952
+}

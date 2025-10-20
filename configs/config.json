@@ -1,0 +1,23 @@
+{
+  "download_BPM_from_server": true,
+  "reference_image": "spirit.fits",
+  "detector": {
+    "bad_pixel_map_path": "1_BadPixelMap.fits",
+    "edge_padding_pixels": 10
+  },
+  "j_to_zyj_conversion": {
+    "slope": 0.9159,
+    "intercept": 0.122
+  },
+  "comparison_star_limits": {
+    "fainter_limit": 4.2,
+    "brighter_limit": -0.6
+  },
+  "quadratic_fit_coefficients": [0.03799352, -0.72984788, 0.36124136],
+  "aperture": {
+    "radius_pixels": 6
+  },
+  "optimization": {
+    "grid_spacing_pixels": 3
+  }
+}
